@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/deskwizard/workspace/android/Bluetooth2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/deskwizard/workspace/android/Bluetooth2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/deskwizard/workspace/android/Bluetooth/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/deskwizard/workspace/android/Bluetooth/app/src/main/res/layout/activity_main.xml"
+    }
+]

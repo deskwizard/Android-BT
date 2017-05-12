@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BT Control</string>
+    <string name="btn_connect">Connect</string>
+    <string name="btn_lock">Lock</string>
+    <string name="btn_status">Status</string>
+    <string name="btn_unlock">Unlock</string>
+    <string name="title_activity_main">BT Control</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
